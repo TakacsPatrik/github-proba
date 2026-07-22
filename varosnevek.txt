@@ -4,3 +4,4 @@ Wien
 New York
 Atlanta
 Szeged
+# Ezt a sort az új ágban írtam hozzá a varosnevek.txt-hez !
